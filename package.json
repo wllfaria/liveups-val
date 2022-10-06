@@ -1,0 +1,14 @@
+{
+  "name": "lineups-val",
+  "description": "The best website for looking lineups for your favorite agents",
+  "bugs": { "url": "https://github.com/wllfaria/lineups-val/issues" },
+  "repository": { "url": "https://github.com/wllfaria/lineups-val" },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Willians Faria",
+    "url": "https://twitter.com/wllfaria_",
+    "email": "dev.willians.faria@gmail.com"
+  }
+}
