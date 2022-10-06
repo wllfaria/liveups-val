@@ -15,6 +15,9 @@
     "url": "https://twitter.com/wllfaria_",
     "email": "dev.willians.faria@gmail.com"
   },
+	"scripts": {
+		"dev": "next dev"
+	},
   "dependencies": {
     "next": "^12.3.1",
     "react": "^18.2.0",
