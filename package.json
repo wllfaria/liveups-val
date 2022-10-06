@@ -15,6 +15,13 @@
     "url": "https://twitter.com/wllfaria_",
     "email": "dev.willians.faria@gmail.com"
   },
+	"contributors": [
+		{
+			"name": "Giovani Gama",
+			"email": "giovanigama.estudo@gmail.com",
+			"url": "https://github.com/GiovaniGamaData"
+		}
+	],
 	"scripts": {
 		"dev": "next dev"
 	},
