@@ -1,8 +1,12 @@
 {
   "name": "lineups-val",
   "description": "The best website for looking lineups for your favorite agents",
-  "bugs": { "url": "https://github.com/wllfaria/lineups-val/issues" },
-  "repository": { "url": "https://github.com/wllfaria/lineups-val" },
+  "bugs": {
+    "url": "https://github.com/wllfaria/lineups-val/issues"
+  },
+  "repository": {
+    "url": "https://github.com/wllfaria/lineups-val"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -10,5 +14,16 @@
     "name": "Willians Faria",
     "url": "https://twitter.com/wllfaria_",
     "email": "dev.willians.faria@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.31.8",
+    "typescript": "^4.8.4"
   }
 }
